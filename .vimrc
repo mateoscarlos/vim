@@ -23,6 +23,8 @@ set backspace=2
 let delimitMate_expand_cr = 1
 let delimitMate_expand_space = 1
 
+cnoreabbrev Spaces %s/\s\+$//e
+
 inoremap <Up> <NOP>
 inoremap <Down> <NOP>
 inoremap <Left> <NOP>
