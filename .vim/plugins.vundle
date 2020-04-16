@@ -1,0 +1,6 @@
+Plugin 'Lokaltog/vim-distinguished'
+Plugin 'Raimondi/delimitMate'
+Plugin 'nathanaelkane/vim-indent-guides'
+Plugin 'bling/vim-airline'
+Plugin 'bitc/vim-bad-whitespace'
+Plugin 'scrooloose/nerdtree'
