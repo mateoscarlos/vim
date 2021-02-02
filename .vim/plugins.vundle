@@ -1,6 +1,9 @@
-Plugin 'Lokaltog/vim-distinguished'
-Plugin 'Raimondi/delimitMate'
-Plugin 'nathanaelkane/vim-indent-guides'
-Plugin 'bling/vim-airline'
-Plugin 'bitc/vim-bad-whitespace'
-Plugin 'scrooloose/nerdtree'
+Plugin 'Lokaltog/vim-distinguished'             " Scheme color
+Plugin 'Raimondi/delimitMate'                   " Closing brackets...
+Plugin 'nathanaelkane/vim-indent-guides'        " Indent for levels
+Plugin 'bling/vim-airline'                      " Statusline
+Plugin 'bitc/vim-bad-whitespace'                " Highlights whitespace at the end of lines
+Plugin 'scrooloose/nerdtree'                    " System explorer
+Plugin 'Valloric/YouCompleteMe'                 " Code completion
+Plugin 'vim-syntastic/syntastic'                " Syntax
+Plugin 'simeji/winresizer'                      " Window resize

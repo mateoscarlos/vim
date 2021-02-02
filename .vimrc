@@ -23,13 +23,14 @@ set backspace=2
 let delimitMate_expand_cr = 1
 let delimitMate_expand_space = 1
 
+" Alias
 cnoreabbrev Spaces %s/\s\+$//e
 
-inoremap <Up> <NOP>
-inoremap <Down> <NOP>
-inoremap <Left> <NOP>
-inoremap <Right> <NOP>
-noremap <Up> <NOP>
-noremap <Down> <NOP>
-noremap <Left> <NOP>
-noremap <Right> <NOP>
+" inoremap <Up>    <NOP>
+" inoremap <Down>  <NOP>
+" inoremap <Left>  <NOP>
+" inoremap <Right> <NOP>
+" noremap  <Up>    <NOP>
+" noremap  <Down>  <NOP>
+" noremap  <Left>  <NOP>
+" noremap  <Right> <NOP>
